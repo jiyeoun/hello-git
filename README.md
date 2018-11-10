@@ -1,4 +1,4 @@
-# 2018년 Hello World!
+# 2019년 Hello World!
 
 Git의 세계에 오신것을 환영합니다.
 Subline Merge와 Gitlab을 이용하여 Git을 배워볼까요?
@@ -6,8 +6,4 @@ Subline Merge와 Gitlab을 이용하여 Git을 배워볼까요?
 - Subline Merge 알아보기
 - Gitlab에 원격저장소 생성하기
 - 오픈소스에 기여해보기
-<<<<<<< HEAD
 문의는 02-xxxx-xxxx로 부탁드립니다.
-=======
-문의는 010-xxxx-xxxx로 부탁드립니다.
->>>>>>> phone
